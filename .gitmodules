@@ -1,3 +1,6 @@
 [submodule "externals/slidesjs"]
 	path = externals/slidesjs
 	url = https://github.com/thinsoldier/SlidesJS-Examples.git
+[submodule "externals/stanfordplaylist"]
+	path = externals/stanfordplaylist
+	url = https://thinsoldier@github.com/thinsoldier/StanfordDbPlaylist.git
