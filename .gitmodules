@@ -4,3 +4,6 @@
 [submodule "externals/stanfordplaylist"]
 	path = externals/stanfordplaylist
 	url = https://thinsoldier@github.com/thinsoldier/StanfordDbPlaylist.git
+[submodule "externals/centerimage"]
+	path = externals/centerimage
+	url = https://thinsoldier@github.com/thinsoldier/CenterImage.git
