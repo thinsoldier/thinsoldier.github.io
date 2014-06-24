@@ -7,3 +7,6 @@
 [submodule "externals/centerimage"]
 	path = externals/centerimage
 	url = https://thinsoldier@github.com/thinsoldier/CenterImage.git
+[submodule "externals/slidesjs-jumpstart"]
+	path = externals/slidesjs-jumpstart
+	url = https://thinsoldier@github.com/thinsoldier/SlidesJS-JumpStart.git
