@@ -10,3 +10,6 @@
 [submodule "externals/slidesjs-jumpstart"]
 	path = externals/slidesjs-jumpstart
 	url = https://thinsoldier@github.com/thinsoldier/SlidesJS-JumpStart.git
+[submodule "externals/khanjs"]
+	path = externals/khanjs
+	url = https://github.com/thinsoldier/khanacademyJS.git
