@@ -13,3 +13,6 @@
 [submodule "externals/khanjs"]
 	path = externals/khanjs
 	url = https://github.com/thinsoldier/khanacademyJS.git
+[submodule "externals/grade-range"]
+	path = externals/grade-range
+	url = https://github.com/thinsoldier/grade-range.git
