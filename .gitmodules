@@ -16,3 +16,6 @@
 [submodule "externals/grade-range"]
 	path = externals/grade-range
 	url = https://github.com/thinsoldier/grade-range.git
+[submodule "externals/bahamas-map"]
+	path = externals/bahamas-map
+	url = https://thinsoldier@github.com/thinsoldier/interactive-bahamas-map.git
